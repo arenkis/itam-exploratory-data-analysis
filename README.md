@@ -10,11 +10,11 @@ This repository contains the Jupyter Notebook used for an exploratory data analy
 
 funeral-services-eda/
 │
-├─ notebook.ipynb                # full, step-by-step analysis (Spanish commentary)
-├─ funerarias\_estados\_unidos.csv # dataset completo 2013-2022
-├─ funerarias\_2013\_2016.csv      # establecimientos (2013-2016)
-├─ funerarias\_2014\_2016.csv      # establecimientos + empleo + wage (2014-2016)
-├─ funerarias\_2017\_2022.csv      # empleo + wage (2017-2022)
+├─ eda_funerarias.ipynb          # full, step-by-step analysis (Spanish commentary)
+├─ funerarias_estados_unidos.csv # dataset completo 2013-2022
+├─ funerarias_2013_2016.csv      # establecimientos (2013-2016)
+├─ funerarias_2014_2016.csv      # establecimientos + empleo + wage (2014-2016)
+├─ funerarias_2017_2022.csv      # empleo + wage (2017-2022)
 └─ README.md                     # you are here
 
 ```
