@@ -1,0 +1,205 @@
+State,Year,Total Number of Establishments
+Alabama,2013,4284.0
+Alabama,2014,4236.0
+Alabama,2015,714.0
+Alabama,2016,718.0
+Alaska,2013,240.0
+Alaska,2014,240.0
+Alaska,2015,38.0
+Alaska,2016,38.0
+Arizona,2013,2184.0
+Arizona,2014,2148.0
+Arizona,2015,350.0
+Arizona,2016,368.0
+Arkansas,2013,3288.0
+Arkansas,2014,3216.0
+Arkansas,2015,542.0
+Arkansas,2016,532.0
+California,2013,11808.0
+California,2014,11892.0
+California,2015,1988.0
+California,2016,1996.0
+Colorado,2013,2136.0
+Colorado,2014,2100.0
+Colorado,2015,356.0
+Colorado,2016,350.0
+Connecticut,2013,3540.0
+Connecticut,2014,3576.0
+Connecticut,2015,592.0
+Connecticut,2016,598.0
+Delaware,2013,756.0
+Delaware,2014,756.0
+Delaware,2015,122.0
+Delaware,2016,124.0
+District of Columbia,2013,276.0
+District of Columbia,2014,300.0
+District of Columbia,2015,52.0
+District of Columbia,2016,48.0
+Florida,2013,9900.0
+Florida,2014,9948.0
+Florida,2015,1694.0
+Florida,2016,1704.0
+Georgia,2013,6324.0
+Georgia,2014,6408.0
+Georgia,2015,1072.0
+Georgia,2016,1084.0
+Hawaii,2013,408.0
+Hawaii,2014,396.0
+Hawaii,2015,66.0
+Hawaii,2016,66.0
+Idaho,2013,1008.0
+Idaho,2014,1020.0
+Idaho,2015,166.0
+Idaho,2016,168.0
+Illinois,2013,12684.0
+Illinois,2014,12696.0
+Illinois,2015,2110.0
+Illinois,2016,2078.0
+Indiana,2013,7956.0
+Indiana,2014,7980.0
+Indiana,2015,1304.0
+Indiana,2016,1300.0
+Iowa,2013,5280.0
+Iowa,2014,5400.0
+Iowa,2015,900.0
+Iowa,2016,892.0
+Kansas,2013,3456.0
+Kansas,2014,3360.0
+Kansas,2015,566.0
+Kansas,2016,554.0
+Kentucky,2013,5844.0
+Kentucky,2014,5772.0
+Kentucky,2015,966.0
+Kentucky,2016,978.0
+Louisiana,2013,3804.0
+Louisiana,2014,3756.0
+Louisiana,2015,622.0
+Louisiana,2016,630.0
+Maine,2013,1680.0
+Maine,2014,1584.0
+Maine,2015,258.0
+Maine,2016,258.0
+Maryland,2013,3648.0
+Maryland,2014,3708.0
+Maryland,2015,618.0
+Maryland,2016,612.0
+Massachusetts,2013,6228.0
+Massachusetts,2014,6180.0
+Massachusetts,2015,1030.0
+Massachusetts,2016,1034.0
+Michigan,2013,8616.0
+Michigan,2014,8508.0
+Michigan,2015,1406.0
+Michigan,2016,1396.0
+Minnesota,2013,4896.0
+Minnesota,2014,5016.0
+Minnesota,2015,832.0
+Minnesota,2016,828.0
+Mississippi,2013,3192.0
+Mississippi,2014,3144.0
+Mississippi,2015,528.0
+Mississippi,2016,534.0
+Missouri,2013,6828.0
+Missouri,2014,6720.0
+Missouri,2015,1128.0
+Missouri,2016,1128.0
+Montana,2013,948.0
+Montana,2014,936.0
+Montana,2015,158.0
+Montana,2016,156.0
+Nebraska,2013,2220.0
+Nebraska,2014,2220.0
+Nebraska,2015,374.0
+Nebraska,2016,366.0
+Nevada,2013,876.0
+Nevada,2014,852.0
+Nevada,2015,148.0
+Nevada,2016,142.0
+New Hampshire,2013,972.0
+New Hampshire,2014,996.0
+New Hampshire,2015,166.0
+New Hampshire,2016,168.0
+New Jersey,2013,7176.0
+New Jersey,2014,7932.0
+New Jersey,2015,1296.0
+New Jersey,2016,1322.0
+New Mexico,2013,936.0
+New Mexico,2014,960.0
+New Mexico,2015,164.0
+New Mexico,2016,168.0
+New York,2013,18540.0
+New York,2014,18444.0
+New York,2015,3072.0
+New York,2016,3038.0
+North Carolina,2013,7812.0
+North Carolina,2014,7980.0
+North Carolina,2015,1348.0
+North Carolina,2016,1378.0
+North Dakota,2013,900.0
+North Dakota,2014,948.0
+North Dakota,2015,150.0
+North Dakota,2016,146.0
+Ohio,2013,13788.0
+Ohio,2014,13800.0
+Ohio,2015,2270.0
+Ohio,2016,2254.0
+Oklahoma,2013,3840.0
+Oklahoma,2014,3744.0
+Oklahoma,2015,598.0
+Oklahoma,2016,596.0
+Oregon,2013,2208.0
+Oregon,2014,2244.0
+Oregon,2015,358.0
+Oregon,2016,362.0
+Pennsylvania,2013,18864.0
+Pennsylvania,2014,18576.0
+Pennsylvania,2015,3108.0
+Pennsylvania,2016,3048.0
+Rhode Island,2013,1260.0
+Rhode Island,2014,1272.0
+Rhode Island,2015,208.0
+Rhode Island,2016,206.0
+South Carolina,2013,4068.0
+South Carolina,2014,4044.0
+South Carolina,2015,668.0
+South Carolina,2016,670.0
+South Dakota,2013,1140.0
+South Dakota,2014,1152.0
+South Dakota,2015,186.0
+South Dakota,2016,194.0
+Tennessee,2013,5940.0
+Tennessee,2014,5976.0
+Tennessee,2015,1004.0
+Tennessee,2016,1030.0
+Texas,2013,15372.0
+Texas,2014,15324.0
+Texas,2015,2574.0
+Texas,2016,2564.0
+Utah,2013,1128.0
+Utah,2014,1152.0
+Utah,2015,190.0
+Utah,2016,202.0
+Vermont,2013,948.0
+Vermont,2014,972.0
+Vermont,2015,154.0
+Vermont,2016,156.0
+Virginia,2013,6228.0
+Virginia,2014,6312.0
+Virginia,2015,1028.0
+Virginia,2016,1042.0
+Washington,2013,3264.0
+Washington,2014,3288.0
+Washington,2015,564.0
+Washington,2016,572.0
+West Virginia,2013,3888.0
+West Virginia,2014,3840.0
+West Virginia,2015,636.0
+West Virginia,2016,632.0
+Wisconsin,2013,6732.0
+Wisconsin,2014,6696.0
+Wisconsin,2015,1112.0
+Wisconsin,2016,1100.0
+Wyoming,2013,348.0
+Wyoming,2014,372.0
+Wyoming,2015,60.0
+Wyoming,2016,60.0
